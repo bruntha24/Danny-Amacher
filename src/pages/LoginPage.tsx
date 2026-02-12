@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { ArrowLeft } from "lucide-react";
 
 const LoginPage = () => {
   const [identifier, setIdentifier] = useState("");
@@ -14,9 +15,15 @@ const LoginPage = () => {
   };
 
   return (
-    <div className="min-h-screen flex">
-      <div className="w-full lg:flex-[3] flex items-center justify-center bg-[#f8f8fb] px-6">
-        
+    <div className="min-h-screen flex flex-col lg:flex-row relative">
+<Button
+  variant="ghost"
+  className="absolute top-4 left-4 lg:top-8 lg:left-8 p-3 rounded-full"
+  onClick={() => navigate(-1)}
+>
+  <ArrowLeft className="w-6 h-6 text-gray-700" />
+</Button>
+      <div className="w-full lg:flex-[3] flex flex-col items-center justify-center bg-[#f8f8fb] px-6 py-10 lg:py-0">
         <div className="w-full max-w-md text-center space-y-8">
           <div className="flex justify-center">
             <div className="w-12 h-12 rounded-full border-2 border-pink-400 flex items-center justify-center">
@@ -30,7 +37,6 @@ const LoginPage = () => {
             <p className="text-gray-400 text-sm">or</p>
           </div>
           <form onSubmit={handleContinue} className="space-y-5">
-
             <Input
               type="text"
               placeholder="Enter email or username"
@@ -39,7 +45,6 @@ const LoginPage = () => {
               className="h-12 rounded-xl bg-white border-gray-300"
               required
             />
-
             <Button
               type="submit"
               className="w-full h-12 rounded-full bg-[#0c0c2d] hover:bg-[#14144a] text-white transition-all duration-300"
@@ -47,6 +52,7 @@ const LoginPage = () => {
               Continue
             </Button>
           </form>
+
           <p className="text-xs text-gray-400 leading-relaxed">
             By continuing, you agree to our{" "}
             <span className="underline cursor-pointer hover:text-gray-600">
@@ -57,17 +63,15 @@ const LoginPage = () => {
               Privacy Policy
             </span>.
           </p>
-
         </div>
       </div>
       <div
-  className="hidden lg:block lg:w-1/4 bg-cover bg-center"
-  style={{ backgroundImage: "url('/animation.gif')" }}
-/>
-
-
+        className="w-full lg:w-1/4 h-64 lg:h-auto bg-cover bg-center mt-6 lg:mt-0"
+        style={{ backgroundImage: "url('/animation.gif')" }}
+      />
     </div>
   );
 };
 
 export default LoginPage;
+
