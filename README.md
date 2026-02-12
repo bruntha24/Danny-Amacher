@@ -1,73 +1,27 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/7ebfe4af-a12c-4458-8df5-9f02e98a37b1" />
+<img width="1900" height="912" alt="image" src="https://github.com/user-attachments/assets/f21d9aa8-4d97-4b12-acd3-d50cef98df95" />
+<img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/8eacc7e5-8062-4785-9856-c5a2e4f5681f" />
+<img width="1904" height="911" alt="image" src="https://github.com/user-attachments/assets/38d1e030-b12a-4cb7-b54d-1ae3ac4564cb" />
+<img width="1900" height="905" alt="image" src="https://github.com/user-attachments/assets/7a45c9c5-e7c6-4da8-92b9-8d19bb927aad" />
+<img width="1902" height="915" alt="image" src="https://github.com/user-attachments/assets/ab4e7c3e-8729-47c0-8875-1ec05ef42f2d" />
+<img width="1903" height="917" alt="image" src="https://github.com/user-attachments/assets/a16aef4b-e62b-4aa7-b5ad-a35b9ac2785a" />
+<img width="1899" height="908" alt="image" src="https://github.com/user-attachments/assets/18cbde04-2e12-4a1a-8e54-933f3af7b622" />
+<img width="1902" height="897" alt="image" src="https://github.com/user-attachments/assets/837e571c-04f2-487e-8562-463172752df6" />
+<img width="1901" height="914" alt="image" src="https://github.com/user-attachments/assets/49cbf0e5-0229-42b7-af0c-fbce176f72cc" />
+<img width="1899" height="913" alt="image" src="https://github.com/user-attachments/assets/feff21cc-a5b3-4dce-b760-4c1bc2e5d9ab" />
+<img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/7b963f4c-0ae0-494a-b372-08f65b1b44f2" />
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/2027c9f6-e9fb-4152-9df5-2ddeabb86ec1" />
+<img width="1905" height="906" alt="image" src="https://github.com/user-attachments/assets/b0248ddf-94fc-45fa-b1ad-0551f012c4c7" />
+<img width="1904" height="890" alt="image" src="https://github.com/user-attachments/assets/76eb5158-6b53-4b6c-8376-9cc195f10b07" />
+<img width="1903" height="913" alt="image" src="https://github.com/user-attachments/assets/c866dc6f-014a-4119-9274-3fc474fdf571" />
+<img width="1904" height="911" alt="image" src="https://github.com/user-attachments/assets/77c124a0-c921-4976-9244-72ce267e3d79" />
+<img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/6b1a6155-b464-43e7-abd4-0dded461f708" />
+<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/b3ec993f-e12b-421c-9de1-e6bf34bf6c48" />
+<img width="1903" height="906" alt="image" src="https://github.com/user-attachments/assets/cf567049-6b97-4269-99f9-7b139fccdfe3" />
+<img width="1901" height="905" alt="image" src="https://github.com/user-attachments/assets/e5550492-6f4b-4674-96df-bdcc0133c3d5" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/3e7a4c93-610d-45b0-abab-d2b01ff7f1a7" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/882bf1c4-8a3e-496e-9873-80d5c9877805" />
+<img width="1901" height="984" alt="image" src="https://github.com/user-attachments/assets/76ea5778-268f-46f7-ae14-c7575ad3ad99" />
+<img width="254" height="905" alt="image" src="https://github.com/user-attachments/assets/50b1a2cf-a222-4bfc-b487-dd7c214b8dc3" />
+<img width="312" height="1004" alt="image" src="https://github.com/user-attachments/assets/441e145f-24c7-4802-9c2b-d00aa3c73f5a" />
+<img width="303" height="999" alt="image" src="https://github.com/user-attachments/assets/afaaad13-8c9f-4a5e-a8ab-e153f426f2b0" />
